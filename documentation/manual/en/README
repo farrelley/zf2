@@ -14,7 +14,7 @@ To generate using PhD, you need the following tools:
 - The ZF build tools:
   You can check these out locally within this directory by running the
   following command:
-  "svn co http://framework.zend.com/svn/framework/build-tools/trunk/build/tools/docs phd"
+  "svn co http://framework.zend.com/svn/framework/build-tools/trunk/build-tools/docs phd"
 
 From here, you need to collate the docbook sources to a single file, and
 then run PhD:
